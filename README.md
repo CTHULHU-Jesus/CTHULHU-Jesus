@@ -1,16 +1,14 @@
-### Hi there 👋
+# Who
+- 😄 Pronouns: He/Him | She/Her | They/Them
+- 📚 Languages Known: C/C++,Haskell,Ocaml,Elm,Python,Rust, and Lisp
+- ⚡ Fun fact: I am a duel Math and Computer Science major in college
 
-<!--
-**CTHULHU-Jesus/CTHULHU-Jesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# What
+- 🔭 I’m currently working on: [touhouMl](https://github.com/CTHULHU-Jesus/touhouML)
+- 👯 I’m looking to collaborate on: Whatever, I like to work.
+- 🌱 I’m currently learning: Docker, and kotlin.
+- 🤔 I’m looking for help with: Automating playing a game in docker.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Where
+- 💬 Ask me about: Interesting projects.
+- 📫 How to reach me: [email](endercreeper92@gmail.com)
