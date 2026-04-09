@@ -2,7 +2,7 @@
 - 🖊 Name: Matthew
 - 😄 Pronouns: He/Him | She/Her | They/Them
 - 📚 Languages Known: C/C++,Haskell,Idris,Ocaml,Elm,Python,Rust, and Lisp
-- ⚡ Fun fact: I am a duel Math and Computer Science major in college
+- ⚡ Fun fact: I was a duel Math and Computer Science major in college
 
 # What
 - 🔭 I’m currently working on: [touhouMl](https://github.com/CTHULHU-Jesus/touhouML)
@@ -12,5 +12,4 @@
 - 💬 Ask me about: Interesting projects.
 
 # Where
-- 📫 Email: [endercreeper92@gmail.com](endercreeper92@gmail.com)
-- 🐦 Twitter (rarely used): [CthulhuDigest](https://twitter.com/CthulhuDigest)
+- 📫 Email: [matthewbartlett512@gmail.com](matthewbartlett512@gmail.com)
